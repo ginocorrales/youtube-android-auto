@@ -15,3 +15,5 @@ Without this SDK this project wouldn't exist. Thanks to Martoreto for reverse en
 https://github.com/cprcrack/VideoEnabledWebView
 This webview makes fullscreen videos easy to implement.
 
+#Changed to Head
+
