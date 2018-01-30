@@ -158,7 +158,7 @@
             android:layout_height="match_parent">
 
 
-            <com.thekirankumar.youtubeauto.webview.VideoWebView
+            <com.theginocorrales.youtubeauto.webview.VideoWebView
                 android:id="@+id/web_view"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -175,7 +175,7 @@
                 android:layout_gravity="top"
                 android:indeterminate="true" />
 
-            <com.thekirankumar.youtubeauto.utils.CarEditText
+            <com.theginocorrales.youtubeauto.utils.CarEditText
                 android:visibility="invisible"
                 android:id="@+id/fake_edittext"
                 android:layout_width="1px"

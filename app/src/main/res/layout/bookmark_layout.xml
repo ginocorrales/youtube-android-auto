@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.thekirankumar.youtubeauto.utils.AspectRatioFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<com.theginocorrales.youtubeauto.utils.AspectRatioFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="100dp">
@@ -46,7 +46,7 @@
             </LinearLayout>
 
 
-            <com.thekirankumar.youtubeauto.utils.TopAlignedImageView
+            <com.theginocorrales.youtubeauto.utils.TopAlignedImageView
                 android:id="@+id/bookmark_thumbnail"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -64,4 +64,4 @@
         android:elevation="10dp"
         android:src="@drawable/ic_close"
         android:visibility="visible" />
-</com.thekirankumar.youtubeauto.utils.AspectRatioFrameLayout>
+</com.theginocorrales.youtubeauto.utils.AspectRatioFrameLayout>
